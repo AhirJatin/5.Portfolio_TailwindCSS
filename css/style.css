@@ -1,0 +1,27 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 1200px !important;
+  padding: 0 20px;
+}
+
+body {
+  font-family: "Preahvihear", sans-serif;
+}
+
+.bg-workExp {
+  background-image: radial-gradient(
+    50% 50% at 50% 50%,
+    #763cac 0%,
+    rgba(50, 15, 133, 0) 100%
+  );
+}
+
+.bg-project {
+  background-image: radial-gradient(
+    50% 50% at 50% 50%,
+    #763cac 0%,
+    rgba(50, 15, 133, 0) 100%
+  );
+}
